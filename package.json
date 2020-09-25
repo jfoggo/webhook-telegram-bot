@@ -1,0 +1,23 @@
+{
+  "name": "webhook-telegram-bot",
+  "version": "1.0.0",
+  "description": "Simple Middleware Code for Telegram-Bots unsing Webhook ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfoggo/webhook-telegram-bot.git"
+  },
+  "author": "J.Foggo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfoggo/webhook-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/jfoggo/webhook-telegram-bot#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
